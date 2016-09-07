@@ -1,5 +1,5 @@
 # Meal Choice
-
+#
 ## Objectives
 
 1. Define a method that has an argument with a default value.
